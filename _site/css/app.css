@@ -1,0 +1,132 @@
+html {
+  scroll-behavior: smooth; }
+
+body {
+  overflow-x: hidden;
+  background-attachment: fixed;
+  background: url("https://i.pinimg.com/originals/21/1c/0e/211c0ea61620106be0b0ae7a65e270b9.png"); }
+
+h1 {
+  font-family: "Fredoka One", cursive;
+  background: -webkit-linear-gradient(#A9F1DF, #FFBBBB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
+h2 {
+  font-family: "Fredoka One", cursive; }
+
+h6, h5, h4, p {
+  font-family: "Poppins", sans-serif;
+  color: white; }
+
+.nav-link {
+  color: white;
+  font-family: "Poppins", sans-serif; }
+
+a {
+  color: white; }
+  a:hover {
+    color: lightgreen; }
+
+.logo {
+  width: 76px;
+  hegiht: 76px; }
+
+.face {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px; }
+
+.face-container {
+  margin-top: 5%; }
+
+.logobig {
+  margin-top: 30px;
+  width: 650px;
+  height: 155px; }
+
+.fab {
+  font-size: 35px;
+  background: -webkit-linear-gradient(#A9F1DF, #FFBBBB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: 10px; }
+
+#dscr {
+  word-spacing: 10px; }
+
+#beats-title {
+  font-size: 50px;
+  background: -webkit-linear-gradient(#A9F1DF, #FFBBBB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
+.title {
+  margin-top: 2.2%;
+  margin-bottom: 2%; }
+
+#mfs_html5 {
+  margin-top: 2%; }
+
+.licencetitle {
+  margin-top: 10px;
+  color: white; }
+
+.licencebanner {
+  width: 100%;
+  height: 100%; }
+
+.img-responsive {
+  width: 100%;
+  height: auto; }
+
+#contact {
+  font-family: "Poppins", sans-serif;
+  padding-top: 100px;
+  width: 100%;
+  width: 100vw;
+  height: 550px; }
+
+.contact-section {
+  padding-top: 65px; }
+
+.contact-section .col-md-6 {
+  width: 50%; }
+
+.form-line {
+  border-right: 1px solid #B29999; }
+
+.form-group {
+  margin-top: 10px;
+  font-family: "Poppins", sans-serif; }
+
+label {
+  font-size: 1.3em;
+  line-height: 1em;
+  font-weight: norma; }
+
+.form-control {
+  font-size: 1.3em;
+  color: #080808; }
+
+textarea.form-control {
+  height: 135px; }
+
+.submit {
+  font-size: 1.1em;
+  float: right;
+  width: 150px;
+  background-color: transparent;
+  color: #fff;
+  font-family: "Poppins", sans-serif; }
+
+#footer {
+  margin-top: 4%; }
+
+.footer {
+  height: 10px; }
+
+.pull-xs-right {
+  color: white; }
+
+/*# sourceMappingURL=app.css.map */
